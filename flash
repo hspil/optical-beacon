@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rshell -p /dev/ttyACM0 cp beacon.py /pyboard/beacon.py
